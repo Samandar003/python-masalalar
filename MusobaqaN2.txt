@@ -1,0 +1,37 @@
+1.Sonni 5 ga bo'linishini tekshiring(5 ball)
+
+2.'*' ni ishlatmasdan ikki sonni ko'paytmasini chiqaring(15 ball)
+
+3. add nomli funksiya tuzing.Funksiya 2 ta qiymat qabul qiladi.Sizning vazifangiz ikki son ko'paytmasini qaytarish(10 ball)
+
+def add(a,b):
+    .......
+    .......
+
+4. lens nomli funksiya tuzing.Funksiya listni qabul qiladi.Sizning vazifangiz listni uzunligini qaytarish(10 ball)
+
+def lens(a:list):
+    .......
+    .......
+
+
+5.average nomli funksiya tuzing.Funksiya listni qabul qiladi.Sizning vazifangiz listdagi elementlarni o'rtacha qiymatini qaytarish(15 ball)
+
+def everage(a:list):
+    .......
+    .......
+
+
+6.s satr berilgan.Satrni birinchi harfi unli harf bilan boshlanganini tekshiring.(10 ball)
+Unli harflar: a, A, e, E, i, I, o, O, u, U
+
+
+7.s satr berilgan .Satrni oxirgi harfi unli va birinchi harfi undosh harfi bilan boshlanganini tekshiring(20 ball)
+
+
+8.s satr berilgan satrda nechta raqam qatnashganini aniqlang(15 ball)
+
+
+9. "-" ni ishlatmasdan ikki sonni ayirmasini toping(10 ball)
+
+

@@ -1,0 +1,8 @@
+1. n soni va s satr berilgan.Sizning vazifangiz n sonini, s satrning uzunligiga tengligini tekshirish(10 ball)
+2.n va m sonlari berilgan."//" bu belgini ishlatmasdan n ni m ga bo'lgandagi butun qismini olib bering(5 ball)
+3. n soni berilgan.n! ni hisoblang.(masalan: n=3 bo'lsa n! = 1*2*3,javob:6)(10 ball)
+4. s satr berilgan.Sizning vazifangiz s satrning birinchi va oxirgi harflari o'rtasidagi harflar soni nechta ekanligini tekshirish.(15 ball)
+5. s satr berilgan.Sizning vazifangiz s satrning birinchi va oxirgi harflari o'rtasidagi harflar soni juft ekanligini tekshirish(20 ball)
+6.s satr berilgan.Sizning vazifangiz satr faqat harflardan tashkil topganini tekshirish(10 ball)
+7.n ta son berilgan .Sizning vazifangiz sonlar yig'indisi ikki xonali son ekanini ekshirish(15 ball)
+

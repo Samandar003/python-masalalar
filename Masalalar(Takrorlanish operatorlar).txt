@@ -1,0 +1,20 @@
+1. 1 dan n gacha bo'lgan sonlarni ko'paytmasini toping.(10ball)
+
+2. 10 dan 20 gacha bo'lgan sonlarni kvadratlarini ekranga chop eting.(15 ball)
+
+3. 37 dan 129 gacha bo'lgan sonlarni ichida 7 ga bo'lgandaki qoldiqi 1 yoki 3 bo'ladigan sonlarni chiqaring.(20ball)
+
+4. Barcha ikki xonali sonlarni raqamlarini yig'indisini topuvchi dastur tuzing.(15ball)
+
+5. Istalgan sonni raqamlar yig'indisini topuvchi dastur tuzing.(25ball)
+
+
+6. Barcha 4 xonali sonlar ichida raqamlari yig'indisi juft bo'lgan sonlarni ekranga chop etuvchi dastur tuzing.(20ball)
+
+
+7. Toki 0 soni kiritilmaguncha cheksiz son o'qib oling. 0 kiritilgandan keyin ekranga qancha juft son kiritilganligini chiqarib bering.(30ball)
+
+
+8. Barcha 3 xonali sonlar ichida raqamlari ko'paytmasi raqamlari yig'indisiga bo'linadiganlarini chiqaring.(20ball)
+
+9.(1+2)*(1+2+3)*...*(1+2+...+10) ni hisoblang.(25ball)

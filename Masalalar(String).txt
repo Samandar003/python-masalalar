@@ -1,0 +1,19 @@
+1.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnni ekranga chiqarishdan iborat.(5 ball)
+
+2.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnda toq o'rinda turgan simvollarni chiqarishdan iborat.(15 ball)
+
+3.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnda toq o'rinda turgan simvollarni teskari tartibda chiqarishdan iborat.(20 ball)
+
+4.Sizga s va t matnlari berilgan bo'lib, sizning vazifangiz t matn s matnida qatnashganligini tekshirishdan iborat.(20 ball)
+
+5.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matndagi simvollar orasiga probel belgisini qo'yib ekranga chiqarishdan iborat.(20 ball)
+
+6.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnda qancha marotaba Python so'zi qatnashganligini topishdan iborat.(25 ball)
+
+7.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnda qancha lotin harfi qatnashganligini topishdan iborat.(20 ball)
+
+8.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matnda qancha unli harflar qatnashligini topishdan iborat.
+
+Unli harflar: a, A, e, E, i, I, o, O, u, U.(15 ball)
+
+9.Sizga matn berilgan bo'lib, sizning vazifangiz berilgan matndaki barcha Python so'zini CPython matniga almashtirishdan iborat.(15 ball)

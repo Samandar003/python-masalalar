@@ -1,0 +1,20 @@
+1.Berilgan butun son agar manfiy bo'lsa  manfiy so'zini,agar son musbat bo'lsa musbat so'zini ekranga chiqaring.(10 ball)
+
+2.Berilgan son agar toq bo'lsa toq so'zini,agar son juft bo'lsa juft so'zini ekranga chiqaring.(10 ball)
+
+3.Agar sonni oxirgi raqami 0 bo'lsa True so'zini,aks holsa False so'zini ekranga chiqaring.(15 ball)
+
+4.Sizga 1 dan 7 gacha sonlar beriladi,shu sonlarga to'g'ri keladigan hafta kunini ekranga chiqaring.(10 ball)
+
+5.a,b,c uchburchak tomonlari berilgan.Ushbu tomonlar yordamida uchburchak hosil qilib bo'lishini tekshiring.Agar hosil qilish mumkin bo'lsa True,aks holsa False so'zini ekranga chiqaring.(20 ball)
+
+6.n (uch xonali) soni berilgan.Shu sonni oxirgi ikki raqami 3 ga  bo'linishini tekshiring(25 ball)
+
+7.a va b sonlar berilgan bo'lib,shu ikki son ko'paytmasi 10 va 50 oralig'iga kirsa True so'zini ekranga chiqaring ,aks xolda False so'zini ekranga chiqaring.(15 ball)
+
+
+8.Sizga 6 xonali son berilgan bo'lib,agar sonni boshidagi 3 son yig'indisi va oxiridaki 3 son yig'indisi teng bo'lsa True ni ekranga chiqaring,aks holda False(30 ball)
+Masalan:345129
+3+4+5=1+2+9
+12=12
+javob :True

@@ -1,0 +1,15 @@
+n ta son kiritish:
+n = list(map(int,input().split()))
+
+
+1. Ikki son berilgan. "+" ni ishlatmasdan  sonlar yig'indisini toping (10 ball) 
+2."Hello,Python'   so'zini ekranga chiqaring(5 ball)
+3. Uchta  son berilgan.Eng katta sonni ekranga chiqaring(10 ball)
+4. n soni berilgan. n*(n+1)*(n+2) ifoda 6 ga bo'lgandaki qoldiqni toping .(5 ball)
+5. a va b sonlar berilgan(a<b).[a,b] oralig'ida 4 ga bo'linadiganlar sonini toping(15 ball)
+6.n soni berilgan .Shu sonni oxiri nechta 0 bilan tugashini aniqlang.(15 ball)
+7.n soni berilgan.1 dan n gacha bo'lgan sonlarning ildizlarini yig'indisini toping(10 ball)
+8.n soni berilgan.1 dan n gacha bo'lgan sonlar orasida 4 va 6 ga yoki 5 ga bo'linadigan sonlar sonini toping(15 ball)
+9.Ikkita son berilgan n va m(n>m).n soni m sonidan necha marta katta bo'lsa ,n sonidan o'shancha marta katta bo'lgan sonni ekranga chiqaring(10 ball)
+10.n ta son berilgan.Sonlarni teskari tartbda ekranga chiqaring(15 ball)
+

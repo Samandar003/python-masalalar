@@ -1,0 +1,40 @@
+Metod(funksiya)
+
+1.Student nomli klass yarating. Konstruktorda ikkita argument berilsin: name va age.(10 ball)
+
+2.Student nomli klass yarating. Konstruktorda ikkita argument berilsin: name va age. __str__ mo'jizaviy metodi qayta yuklansin.(15 ball)
+
+3.Student nomli klass yarating. Konstruktorda uchta argument berilsin: name, age va balls. balls argumenti list turida beriladi.
+
+get_average_ball metodini yarating. Metod student o'rtacha ballini qaytarsin.(25 ball)
+
+4.Number nomli klass yarating. Klass int klassidan vorislik olinsin.
+(10 ball)
+
+ 
+izoh:
+number = Number()
+print(isinstance(number, int) )== True 
+
+5.Number nomli class yarating.Class n argumentini qabul qiladi  n ni tipi int.
+digit_num nomli metod yarating.Metod sonni raqamlar yig'indisini qaytarsin(20 ball)
+
+
+6.Number nomli klass yarating. Class bitta argument berilsin: value. Qo'shish operatori qayta yuklansin. Metod yangi Number obyektini qaytarsin. __str__ metodi qayta yuklansin. Metod value qiymatini qaytarsin.(20 ball)
+izoh:
+n = Number(5)
+m = Number(6)
+print(n + m + n) # 16
+
+7.Point nomli klass yaratilsin. Class ikkita argument qabul qiladi: x va y. Point uchun qo'shish, ayirish operatorlari qayta yuklansin. Ko'paytirish amali qayta yuklansin. __str__ metodi qayta yuklansin.(25 ball)
+
+
+8.Person nomli klass yarating. Klass ikkita argumentni qabul qilsin: name, age. Barcha taqqoslash operatorlari qayta yuklansin. 
+Taqqoslashda yoshi  ishlatilsin.(35 ball)
+izoh:
+p1 = Person('name1', 20)
+p2 = Person('name2', 22)
+p1 < p2   # True
+p1 >= p2  # False 
+
+

@@ -1,0 +1,54 @@
+1-m.
+1+(-2)+3+(-4)+5+(-6)+....n
+Ushbu ketma-ketlikni dastlabki n ta hadini hisoblovchi dastur tuzing(15 ball)
+izoh:
+n =1 da j:1
+n=2 da j:-1
+
+2-m.
+n soni berilgan shu sonni barcha bo'luvchilarini toping(10 ball)
+
+
+3-m.
+input.txt Faylda har bir qatorda bittadan telefon raqamlar bor ,o'sha raqamlarni oldiga "+" ni qo'yib output.txt faylda chiqaring(25 ball)
+izoh:
+faylga text yoziwda "w" dan emas "a" dan foydalaning
+input.txt faylda:
+9989421123
+912313113
+..... shunaqa tartbda raqamlar yozilgan bo'ladi
+
+output.txt faylda esa:
++9989421123
++912313113
++....... shunaqa tartbda raqamlar chiqiwi kerak
+
+
+4-m.
+Point nomli class yarating.Point a list tipli argumentni qabul qiladi.max_son nomli metod tuzish kerak,metodni vazifasi a argumentni ichidagi
+qiymatlarning eng kattasini chiqarishdan iborat(max funksiyasidan foydalanmagan holda),metodga max_son() emas max_son deb murojat qlish imkoni bo'lsin(30 ball)
+
+
+
+5-m.
+
+Yil chiroyli hisoblanadi, agarda uning barcha raqamlari har hil bo'lsa.Yilning chiroyli yil ekanligini tekshirish kerak(20 ball)
+
+izoh:
+2013 -chiroyli yil
+202- chiroyli yil emas
+
+
+6-m.
+Inson nomli class tuzing.Class ikki argumentni qabul qiladi:age va maosh. karra_argument nomli metod tuzing.
+Metodning vazifasi maosh age dan necha marta katta ekanini chiqarish(20 ball)
+
+
+7-m.
+s satr berilgan shu satrning ichidagi sonlarni raqamlar yig'indisini ekranga chiqaring(15 ball):
+
+
+
+8-m.
+Sizga n ta son berilgan bo'lib, sizning vazifangiz shulardan 0 ga eng yaqinini topishdan iborat.(15 ball)
+
